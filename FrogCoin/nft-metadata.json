@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Maltipoo"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Mocha"
+    } ],
+    "description" : "Majo's first coin with picture",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmVVCcb36KDXDhMVHKWyMPxCrrTSp9g8Afdo4QZJwANXWt",
+    "name" : "MajoFrog"
+}
